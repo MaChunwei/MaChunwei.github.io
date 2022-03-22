@@ -48,7 +48,7 @@ My research interest is **deep learning** powered by **computational geometry**.
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/XXXXXXXXX.png" class="teaser img-fluid z-depth-1">
+    <img src="./images/teaser/illus.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -78,7 +78,7 @@ My research interest is **deep learning** powered by **computational geometry**.
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/XXXXXXXXX.png" class="teaser img-fluid z-depth-1">
+    <img src="./images/teaser/bitmap.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">TPAMI</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -101,7 +101,7 @@ My research interest is **deep learning** powered by **computational geometry**.
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/XXXXXXXXX.png" class="teaser img-fluid z-depth-1">
+    <img src="./images/teaser/pip.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ECCV</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -125,7 +125,31 @@ My research interest is **deep learning** powered by **computational geometry**.
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/XXXXXXXXX.png" class="teaser img-fluid z-depth-1">
+    <img src="./images/teaser/quality.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">CVPR</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">XXXXXXXXX</div>
+      <div class="author"><strong>XXXXXXXXX</strong>, <a href="http://seea.tju.edu.cn/info/1014/1459.htm">XXXXXXXXX</a>, <a href="http://seea.tju.edu.cn/info/1014/1508.htm">XXXXXXXXX</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">XXXXXXXXX</a>, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
+      <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://bib.yyliu.net/CVPR20.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+       <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./images/teaser/XIC.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">

@@ -5,8 +5,8 @@
   	height:1.5em;
 	margin:0;
 	padding:0;
-	background:#036;
-	/* background: rgb(0,36,62); */
+	background:#005bbb;
+	/* background: rgb(0,36,62); or #036 and #89b below*/
 	text-align:left;
 	color:#fff;
 	position:fixed;
@@ -32,11 +32,11 @@
 	/* display:none; */
 	float:right;
 	margin:0;
-	padding:0;	
+	padding:0;
 	width:7px;
 	height:5px;
 	/* position:relative; */
-	background:#89b;
+	background:#005bbb;
 	z-index:1;
 	margin:0;
 
@@ -68,4 +68,3 @@
 	color:#036;
 	line-height:1.3;
 }
-
