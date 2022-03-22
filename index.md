@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. candidate in [Department of Computer Science and Engineering](Department of Computer Science and Engineering) at [University at Buffalo, SUNY](University at Buffalo, SUNY), advised by [Prof. Dr. Mingchen Gao](https://cse.buffalo.edu/~mgao8/) and [Prof. Dr. Jinhui Xu](https://cse.buffalo.edu/~jinhui/).
+I am currently a Ph.D. candidate in [Department of Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) at [University at Buffalo, SUNY](https://www.buffalo.edu/), advised by [Prof. Dr. Mingchen Gao](https://cse.buffalo.edu/~mgao8/) and [Prof. Dr. Jinhui Xu](https://cse.buffalo.edu/~jinhui/).
 
 ## Research Interests
 
@@ -30,7 +30,7 @@ My research is **deep learning** powered by **computational geometry**.
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">XXXXXXXXX</div>
-      <div class="author"><strong>XXXXXXXXX</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a>, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
+      <div class="author"><strong>XXXXXXXXX</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">XXXXX</a>, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
       <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.</em>
       </div>
     <div class="links">
@@ -149,7 +149,7 @@ My research is **deep learning** powered by **computational geometry**.
 
 ## Teaching
 
-- Teaching Assistant, [Blockchain Application Development](https://cse.buffalo.edu/~bina/) at [University at Buffalo](https://www.buffalo.edu/), 2019-2021
+- Teaching Assistant, [Blockchain Application Development](https://cse.buffalo.edu/~bina/cse426/fall2021/index.html) at [University at Buffalo](https://www.buffalo.edu/), 2019-2021
 
 ## Services
 
