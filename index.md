@@ -16,7 +16,7 @@ My research is **deep learning** powered by **computational geometry**.
 
 ## News
 
-- **[Sept. 2021]** Our paper about [Few-Shot Learning by Cluster-Induced Voronoi Diagram](https://openreview.net/forum?id=6kCiVaoQdx9) is accepted to [ICLR 2022](https://iclr.cc/Conferences/2022).
+- **[Sept. 2021]** Our paper about [few-shot learning](https://openreview.net/forum?id=6kCiVaoQdx9) is accepted to [ICLR 2022](https://iclr.cc/Conferences/2022).
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=4NOrXN8AAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/195/7742.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
@@ -25,12 +25,12 @@ My research is **deep learning** powered by **computational geometry**.
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/DeepVoro.png" class="teaser img-fluid z-depth-1">
+    <img src="./images/teaser/DeepVoro.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NeurIPS</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">RMM: Reinforced Memory Management for Class-Incremental Learning</div>
-      <div class="author"><strong>Yaoyao Liu</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a></div>
+      <div class="title">XXXXXXXXX</div>
+      <div class="author"><strong>XXXXXXXXX</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a>, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
       <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.</em>
       </div>
     <div class="links">
@@ -48,12 +48,12 @@ My research is **deep learning** powered by **computational geometry**.
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/AANets.png" class="teaser img-fluid z-depth-1">
+    <img src="https://images.yyliu.net/teaser/XXXXXXXXX.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Adaptive Aggregation Networks for Class-Incremental Learning</div>
-      <div class="author"><strong>Yaoyao Liu</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a></div>
+      <div class="title">XXXXXXXXX</div>
+      <div class="author"><strong>XXXXXXXXX</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">XXXXXXXXX</a>, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.</em>
       </div>
     <div class="links">
@@ -78,12 +78,12 @@ My research is **deep learning** powered by **computational geometry**.
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/MTL_PAMI.png" class="teaser img-fluid z-depth-1">
+    <img src="https://images.yyliu.net/teaser/XXXXXXXXX.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">TPAMI</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Meta-Transfer Learning through Hard Tasks</div>
-      <div class="author"><a href="https://qianrusun1015.github.io/">Qianru Sun</a>,* <strong>Yaoyao Liu</strong>,<strong>*</strong> <a href="https://zhaozhengchen.github.io/">Zhaozheng Chen</a>, <a href="https://www.chuatatseng.com/">Tat-Seng Chua</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a> (*=Equal contribution)</div>
+      <div class="title">XXXXXXXXX</div>
+      <div class="author"><a href="https://qianrusun1015.github.io/">XXXXXXXXX</a>,* <strong>XXXXXXXXX</strong>,<strong>*</strong> <a href="https://zhaozhengchen.github.io/">XXXXXXXXX</a>, <a href="https://www.chuatatseng.com/">XXXXXXXXX</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">XXXXXXXXX</a> (*=Equal contribution)</div>
       <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2020.</em>
       </div>
     <div class="links">
@@ -101,12 +101,12 @@ My research is **deep learning** powered by **computational geometry**.
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/E3BM.png" class="teaser img-fluid z-depth-1">
+    <img src="https://images.yyliu.net/teaser/XXXXXXXXX.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ECCV</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning</div>
-      <div class="author"><strong>Yaoyao Liu</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a></div>
+      <div class="title">XXXXXXXXX</div>
+      <div class="author"><strong>XXXXXXXXX</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">XXXXXXXXX</a>, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
       <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.</em>
       </div>
     <div class="links">
@@ -125,12 +125,12 @@ My research is **deep learning** powered by **computational geometry**.
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://images.yyliu.net/teaser/mnemonics.png" class="teaser img-fluid z-depth-1">
+    <img src="https://images.yyliu.net/teaser/XXXXXXXXX.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Mnemonics Training: Multi-Class Incremental Learning without Forgetting</div>
-      <div class="author"><strong>Yaoyao Liu</strong>, <a href="http://seea.tju.edu.cn/info/1014/1459.htm">Yuting Su</a>, <a href="http://seea.tju.edu.cn/info/1014/1508.htm">An-An Liu</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">Bernt Schiele</a>, <a href="https://qianrusun1015.github.io/">Qianru Sun</a></div>
+      <div class="title">XXXXXXXXX</div>
+      <div class="author"><strong>XXXXXXXXX</strong>, <a href="http://seea.tju.edu.cn/info/1014/1459.htm">XXXXXXXXX</a>, <a href="http://seea.tju.edu.cn/info/1014/1508.htm">XXXXXXXXX</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">XXXXXXXXX</a>, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
       <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em>
       </div>
     <div class="links">
