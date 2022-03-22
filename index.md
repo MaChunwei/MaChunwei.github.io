@@ -16,7 +16,7 @@ My research is **deep learning** powered by **computational geometry**.
 
 ## News
 
-- **[Sept. 2021]** Our paper about [few-shot learning](https://openreview.net/forum?id=6kCiVaoQdx9) is accepted to [ICLR 2022](https://iclr.cc/Conferences/2022).
+- **[Jan. 20, 2022]** Our paper about [few-shot learning](https://openreview.net/forum?id=6kCiVaoQdx9) is accepted to [ICLR 2022](https://iclr.cc/Conferences/2022).
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=4NOrXN8AAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/195/7742.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
@@ -24,7 +24,7 @@ My research is **deep learning** powered by **computational geometry**.
 <ol class="bibliography">
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 8px;padding-left: 8px;">
     <img src="./images/teaser/DeepVoro.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NeurIPS</abbr>
   </div>
