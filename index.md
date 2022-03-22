@@ -8,7 +8,7 @@ I am currently a Ph.D. candidate in [Department of Computer Science and Engineer
 
 ## Research Interests
 
-My research is **deep learning** powered by **computational geometry**.
+My research interest is **deep learning** powered by **computational geometry**.
 
 <!--
 <strong style="color:#e74d3c; font-weight:600">I am looking for a research intern position in the EU and the US. I'd appreciate a ping if you see a job I might fit.</strong>
@@ -18,15 +18,15 @@ My research is **deep learning** powered by **computational geometry**.
 
 - **[Jan. 20, 2022]** Our paper about [few-shot learning](https://openreview.net/forum?id=6kCiVaoQdx9) is accepted to [ICLR 2022](https://iclr.cc/Conferences/2022).
 
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=4NOrXN8AAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/195/7742.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=4NOrXN8AAAAJ&hl=en" target="_blank" style="font-size:15px;">Full List</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/195/7742.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
 <div class="publications">
 <ol class="bibliography">
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 8px;padding-left: 8px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 3px;">
     <img src="./images/teaser/DeepVoro.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">NeurIPS</abbr>
+            <abbr class="badge">ICLR</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">XXXXXXXXX</div>
@@ -159,9 +159,10 @@ My research is **deep learning** powered by **computational geometry**.
   <li><a href="https://neurips.cc/Conferences/2021"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS), 2020-2021</autocolor></a></li>
   <li><a href="https://icml.cc/Conferences/2022"><autocolor>International Conference on Machine Learning (ICML), 2021-2022</autocolor></a></li>
   <li><a href="https://iclr.cc/Conferences/2022"><autocolor>International Conference on Learning Representations (ICLR), 2022</autocolor></a></li>
+  <li><a><autocolor>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019-2022</autocolor></a></li>
   <!--
   <li><a href="https://mmasia2021.uqcloud.net/"><autocolor>ACM MM Asia 2020-2021</autocolor></a></li>
-  <li><a href="http://www.acml-conf.org/2021/"><autocolor>ACML 2021</autocolor></a></li>  
+  <li><a href="http://www.acml-conf.org/2021/"><autocolor>ACML 2021</autocolor></a></li>
   -->
 </ul>
 
