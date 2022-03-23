@@ -173,7 +173,7 @@ Improvement of peptide identification with considering the abundance of mRNA and
 
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Review</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://neurips.cc/Conferences/2021"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS), 2020-2021</autocolor></a></li>
@@ -189,6 +189,6 @@ Improvement of peptide identification with considering the abundance of mRNA and
 </ul>
 
 ## Contact
-**Address:** [*338X Davis Hall, Buffalo, NY, 14260*](https://engineering.buffalo.edu/computer-science-engineering.html)
+**Address:** [338X Davis Hall, Buffalo, NY, 14260](https://engineering.buffalo.edu/computer-science-engineering.html)
 <br>
 **Phone:** (716)-256-9951 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **WeChat:** horsepurve
