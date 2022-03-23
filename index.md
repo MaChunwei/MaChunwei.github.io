@@ -28,8 +28,8 @@ My research interest is **deep learning** powered by **computational geometry**.
     <img src="./images/teaser/DeepVoro.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICLR</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Few-shot Learning as Cluster-induced Voronoi Diagrams: A Geometric Approach</div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 5px;padding-left: 20px;">
+      <div class="title"><a href="https://openreview.net/forum?id=6kCiVaoQdx9"><autocolor>Few-shot Learning as Cluster-induced Voronoi Diagrams: A Geometric Approach</autocolor></a></div>
       <div class="author"><strong>Chunwei Ma</strong>, Ziyun Huang, Mingchen Gao, Jinhui Xu</div>
       <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2022.</em>
       </div>
@@ -79,9 +79,9 @@ Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery an
       <div class="periodical"><em>International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2019.</em> <strong><i style="color:#59d47c">Early Accept</i></strong>
       </div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/1910.03648.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://doi.org/10.1109/TPAMI.2020.3018506" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
-      <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://arxiv.org/pdf/1909.09716" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-030-32245-8_15" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      <a href="https://github.com/horsepurve/StyleSegor" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="./assets/bib/miccai19.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
@@ -166,6 +166,7 @@ Improvement of peptide identification with considering the abundance of mRNA and
 ## Teaching
 
 - Teaching Assistant, [Blockchain Application Development](https://cse.buffalo.edu/~bina/cse426/fall2021/index.html) at [University at Buffalo](https://www.buffalo.edu/), 2019-2021
+- Teaching Assistant, Data-intensive Computing at [University at Buffalo](https://www.buffalo.edu/), 2019
 
 ## Services
 
