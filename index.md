@@ -17,6 +17,7 @@ My research interest is **deep learning** powered by **computational geometry**.
 ## News
 
 - **[Jan. 20, 2022]** Our paper about [few-shot learning](https://openreview.net/forum?id=6kCiVaoQdx9) is accepted to [ICLR 2022](https://iclr.cc/Conferences/2022).
+- **[May. 12, 2021]** Our paper about [uncertainty calibration](https://proceedings.mlr.press/v161/ma21a.html) is accepted to [UAI 2021](https://www.auai.org/uai2021/accepted_papers).
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=4NOrXN8AAAAJ&hl=en" target="_blank" style="font-size:15px;">Full List</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/195/7742.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
@@ -28,7 +29,7 @@ My research interest is **deep learning** powered by **computational geometry**.
     <img src="./images/teaser/DeepVoro.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICLR</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 16px;">
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 11px;">
       <div class="title"><a href="https://openreview.net/forum?id=6kCiVaoQdx9">Few-shot Learning as Cluster-induced Voronoi Diagrams: A Geometric Approach</a></div>
       <div class="author"><strong>Chunwei Ma</strong>, Ziyun Huang, Mingchen Gao, Jinhui Xu</div>
       <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2022.</em>
@@ -50,9 +51,9 @@ My research interest is **deep learning** powered by **computational geometry**.
     <img src="./images/teaser/illus.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">UAI</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">
-Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery and Geometric Optimization</div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 11px;">
+      <div class="title"><a href="https://proceedings.mlr.press/v161/ma21a.html">
+Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery and Geometric Optimization</a></div>
       <div class="author"><strong>Chunwei Ma</strong>, Ziyun Huang, Jiayi Xian, Mingchen Gao, Jinhui Xu</div>
       <div class="periodical"><em>Uncertainty in Artificial Intelligence <strong>(UAI)</strong>, 2021.</em>
       </div>
@@ -61,7 +62,7 @@ Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery an
       <a href="https://github.com/horsepurve/truly-uncertain" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="./assets/bib/uai21.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       <br>
-      <strong><small style="color:#8d5ba6">The first work that brought truth Discovery into deep learning.</small></strong>
+      <strong><small style="color:#8d5ba6">The first work that brought truth discovery into deep learning.</small></strong>
     </div>
   </div>
 </div>
@@ -75,8 +76,8 @@ Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery an
     <img src="./images/teaser/bitmap.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">MICCAI</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Neural Style Transfer Improves 3D Cardiovascular MR Image Segmentation on Inconsistent Data</div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 11px;">
+      <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-030-32245-8_15">Neural Style Transfer Improves 3D Cardiovascular MR Image Segmentation on Inconsistent Data</a></div>
       <div class="author"><strong>Chunwei Ma</strong>, Zhanghexuan Ji, Mingchen Gao</div>
       <div class="periodical"><em>International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2019.</em> <strong><i style="color:#59d47c">Early Accept</i></strong>
       </div>
@@ -98,8 +99,8 @@ Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery an
     <img src="./images/teaser/pip.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ACS AC</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Improved Peptide Retention Time Prediction in Liquid Chromatography through Deep Learning</div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 11px;">
+      <div class="title"><a href="https://pubs.acs.org/doi/abs/10.1021/acs.analchem.8b02386">Improved Peptide Retention Time Prediction in Liquid Chromatography through Deep Learning</a></div>
       <div class="author"><strong>Chunwei Ma</strong> <i>et al.</i></div>
       <div class="periodical"><em>Analytical chemistry, 2018.</em> Impact Factor: <strong><i style="color:#e74d3c">6.350</i></strong>
       </div>
@@ -123,8 +124,8 @@ Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery an
     <img src="./images/teaser/quality.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">arXiv</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">DeepQuality: Mass Spectra Quality Assessment via Compressed Sensing and Deep Learning</div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 11px;">
+      <div class="title"><a href="https://github.com/horsepurve/DeepQuality">DeepQuality: Mass Spectra Quality Assessment via Compressed Sensing and Deep Learning</a></div>
       <div class="author"><strong>Chunwei Ma</strong></div>
       <div class="periodical"><em>Preprint, 2017.</em>
       </div>
@@ -145,9 +146,9 @@ Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery an
     <img src="./images/teaser/XIC.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">BMC</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">
-Improvement of peptide identification with considering the abundance of mRNA and peptide</div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 11px;">
+      <div class="title"><a href="https://link.springer.com/article/10.1186/s12859-017-1491-5">
+Improvement of peptide identification with considering the abundance of mRNA and peptide</a></div>
       <div class="author"><strong>Chunwei Ma</strong> <i>et al.</i></div>
       <div class="periodical"><em>BMC bioinformatics, 2017.</em> Impact Factor: <strong><i style="color:#e74d3c">2.213</i></strong>
       </div>
