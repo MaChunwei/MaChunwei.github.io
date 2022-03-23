@@ -28,8 +28,8 @@ My research interest is **deep learning** powered by **computational geometry**.
     <img src="./images/teaser/DeepVoro.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICLR</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 5px;padding-left: 20px;">
-      <div class="title"><a href="https://openreview.net/forum?id=6kCiVaoQdx9"><autocolor>Few-shot Learning as Cluster-induced Voronoi Diagrams: A Geometric Approach</autocolor></a></div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 16px;">
+      <div class="title"><a href="https://openreview.net/forum?id=6kCiVaoQdx9">Few-shot Learning as Cluster-induced Voronoi Diagrams: A Geometric Approach</a></div>
       <div class="author"><strong>Chunwei Ma</strong>, Ziyun Huang, Mingchen Gao, Jinhui Xu</div>
       <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2022.</em>
       </div>
@@ -60,6 +60,8 @@ Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery an
       <a href="https://arxiv.org/abs/2106.14662" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/horsepurve/truly-uncertain" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="./assets/bib/uai21.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <br>
+      <strong><small style="color:#8d5ba6">The first work that brought truth Discovery into deep learning.</small></strong>
     </div>
   </div>
 </div>
@@ -105,8 +107,8 @@ Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery an
       <a href="https://pubs.acs.org/doi/abs/10.1021/acs.analchem.8b02386" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
       <a href="https://github.com/horsepurve/DeepRTplus" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="./assets/bib/ac18.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-<br>
-<strong><small style="color:#8d5ba6">The first work that brought deep transfer learning into LCMS analysis.</small></strong>
+      <br>
+      <strong><small style="color:#8d5ba6">The first work that brought deep transfer learning into LCMS analysis.</small></strong>
     </div>
   </div>
 </div>
