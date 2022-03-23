@@ -1,0 +1,10 @@
+@article{ma2017improvement,
+  title={Improvement of peptide identification with considering the abundance of mRNA and peptide},
+  author={Ma, Chunwei and Xu, Shaohang and Liu, Geng and Liu, Xin and Xu, Xun and Wen, Bo and Liu, Siqi},
+  journal={BMC bioinformatics},
+  volume={18},
+  number={1},
+  pages={1--8},
+  year={2017},
+  publisher={Springer}
+} 

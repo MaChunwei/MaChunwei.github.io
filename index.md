@@ -30,14 +30,13 @@ My research interest is **deep learning** powered by **computational geometry**.
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">Few-shot Learning as Cluster-induced Voronoi Diagrams: A Geometric Approach</div>
-      <div class="author"><strong>Chunwei Ma</strong>, Ziyun Huang, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
+      <div class="author"><strong>Chunwei Ma</strong>, Ziyun Huang, Mingchen Gao, Jinhui Xu</div>
       <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2022.</em>
       </div>
     <div class="links">
-      <a href="https://openreview.net/pdf?id=BfPzZSype5M" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/rmm/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://class-il.mpi-inf.mpg.de/rmm/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://bib.yyliu.net/NeurIPS21.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://arxiv.org/pdf/2202.02471" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/horsepurve/DeepVoro" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="./assets/bib/iclr22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
@@ -49,26 +48,18 @@ My research interest is **deep learning** powered by **computational geometry**.
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./images/teaser/illus.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">CVPR</abbr>
+            <abbr class="badge">UAI</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">
 Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery and Geometric Optimization</div>
-      <div class="author"><strong>XXXXXXXXX</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">XXXXXXXXX</a>, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
+      <div class="author"><strong>Chunwei Ma</strong>, Ziyun Huang, Jiayi Xian, Mingchen Gao, Jinhui Xu</div>
       <div class="periodical"><em>Uncertainty in Artificial Intelligence <strong>(UAI)</strong>, 2021.</em>
       </div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2010.05063.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://git.io/JYHyt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://class-il.mpi-inf.mpg.de/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://bib.yyliu.net/CVPR21.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-  <a href="https://github.com/yaoyao-liu/class-incremental-learning/tree/main/adaptive-aggregation-networks" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
-  <script>
-  githubStars("yaoyao-liu/class-incremental-learning", function(stars) {
-  var startext = document.getElementById("githubstars_manets");
-        startext.innerHTML=stars;
-  });
-  </script>
+      <a href="https://arxiv.org/abs/2106.14662" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/horsepurve/truly-uncertain" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="./assets/bib/uai21.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
@@ -84,14 +75,14 @@ Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery an
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">Neural Style Transfer Improves 3D Cardiovascular MR Image Segmentation on Inconsistent Data</div>
-      <div class="author"><a href="https://qianrusun1015.github.io/">XXXXXXXXX</a>,* <strong>XXXXXXXXX</strong>,<strong>*</strong> <a href="https://zhaozhengchen.github.io/">XXXXXXXXX</a>, <a href="https://www.chuatatseng.com/">XXXXXXXXX</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">XXXXXXXXX</a> (*=Equal contribution)</div>
-      <div class="periodical"><em>International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2019.</em>
+      <div class="author"><strong>Chunwei Ma</strong>, Zhanghexuan Ji, Mingchen Gao</div>
+      <div class="periodical"><em>International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2019.</em> <strong><i style="color:#59d47c">Early Accept</i></strong>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/1910.03648.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://doi.org/10.1109/TPAMI.2020.3018506" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
       <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://bib.yyliu.net/TPAMI20.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="./assets/bib/miccai19.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
@@ -107,14 +98,15 @@ Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery an
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">Improved Peptide Retention Time Prediction in Liquid Chromatography through Deep Learning</div>
-      <div class="author"><strong>XXXXXXXXX</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">XXXXXXXXX</a>, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
-      <div class="periodical"><em>Analytical chemistry <strong>(ECCV)</strong>, 2020.</em>
+      <div class="author"><strong>Chunwei Ma</strong> <i>et al.</i></div>
+      <div class="periodical"><em>Analytical chemistry, 2018.</em> Impact Factor: <strong><i style="color:#e74d3c">6.350</i></strong>
       </div>
     <div class="links">
-      <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://e3bm.yyliu.net" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://bib.yyliu.net/ECCV20.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://pubs.acs.org/doi/abs/10.1021/acs.analchem.8b02386" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      <a href="https://github.com/horsepurve/DeepRTplus" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="./assets/bib/ac18.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+<br>
+<strong><small style="color:#8d5ba6">The first work that brought deep transfer learning into LCMS analysis.</small></strong>
     </div>
   </div>
 </div>
@@ -137,8 +129,7 @@ Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery an
     <div class="links">
       <a href="https://arxiv.org/pdf/1710.11430" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/horsepurve/DeepQuality" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="./assets/bib/quality.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-       <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+      <a href="./assets/bib/deepquality.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
@@ -155,19 +146,19 @@ Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery an
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">
 Improvement of peptide identification with considering the abundance of mRNA and peptide</div>
-      <div class="author"><strong>XXXXXXXXX</strong>, <a href="http://seea.tju.edu.cn/info/1014/1459.htm">XXXXXXXXX</a>, <a href="http://seea.tju.edu.cn/info/1014/1508.htm">XXXXXXXXX</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">XXXXXXXXX</a>, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
-      <div class="periodical"><em>BMC bioinformatics <strong>(CVPR)</strong>, 2020.</em>
+      <div class="author"><strong>Chunwei Ma</strong> <i>et al.</i></div>
+      <div class="periodical"><em>BMC bioinformatics, 2017.</em> Impact Factor: <strong><i style="color:#e74d3c">2.213</i></strong>
       </div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://bib.yyliu.net/CVPR20.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-       <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+      <a href="https://link.springer.com/content/pdf/10.1186/s12859-017-1491-5.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://link.springer.com/article/10.1186/s12859-017-1491-5" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      <a href="./assets/bib/bmc17.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
 </li>
+
+<br>
 
 </ol>
 </div>
@@ -183,8 +174,10 @@ Improvement of peptide identification with considering the abundance of mRNA and
 <ul style="margin:0 0 5px;">
   <li><a href="https://neurips.cc/Conferences/2021"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS), 2020-2021</autocolor></a></li>
   <li><a href="https://icml.cc/Conferences/2022"><autocolor>International Conference on Machine Learning (ICML), 2021-2022</autocolor></a></li>
-  <li><a href="https://iclr.cc/Conferences/2022"><autocolor>International Conference on Learning Representations (ICLR), 2022</autocolor></a></li>
+  <li><a href="https://iclr.cc/Conferences/2022"><autocolor>International Conference on Learning Representations (ICLR), 2022-2022</autocolor></a></li>
   <li><a><autocolor>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019-2022</autocolor></a></li>
+  <li><a><autocolor>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2020</autocolor></a></li>
+  <li><a><autocolor>International Workshop on Combinatorial Image Analysis (IWCIA), 2020</autocolor></a></li>
   <!--
   <li><a href="https://mmasia2021.uqcloud.net/"><autocolor>ACM MM Asia 2020-2021</autocolor></a></li>
   <li><a href="http://www.acml-conf.org/2021/"><autocolor>ACML 2021</autocolor></a></li>

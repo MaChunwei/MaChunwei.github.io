@@ -1,0 +1,10 @@
+@article{ma2018improved,
+  title={Improved peptide retention time prediction in liquid chromatography through deep learning},
+  author={Ma, Chunwei and Ren, Yan and Yang, Jiarui and Ren, Zhe and Yang, Huanming and Liu, Siqi},
+  journal={Analytical Chemistry},
+  volume={90},
+  number={18},
+  pages={10881--10888},
+  year={2018},
+  xxxpublisher={ACS Publications}
+} 

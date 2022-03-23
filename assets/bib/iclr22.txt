@@ -1,0 +1,8 @@
+@misc{ma2022fewshot,
+      title={Few-shot Learning as Cluster-induced Voronoi Diagrams: A Geometric Approach},
+      author={Chunwei Ma and Ziyun Huang and Mingchen Gao and Jinhui Xu},
+      year={2022},
+      eprint={2202.02471},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+} 
