@@ -29,9 +29,9 @@ My research interest is **deep learning** powered by **computational geometry**.
             <abbr class="badge">ICLR</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">XXXXXXXXX</div>
-      <div class="author"><strong>XXXXXXXXX</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">XXXXX</a>, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
-      <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.</em>
+      <div class="title">Few-shot Learning as Cluster-induced Voronoi Diagrams: A Geometric Approach</div>
+      <div class="author"><strong>Chunwei Ma</strong>, Ziyun Huang, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
+      <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2022.</em>
       </div>
     <div class="links">
       <a href="https://openreview.net/pdf?id=BfPzZSype5M" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -52,9 +52,10 @@ My research interest is **deep learning** powered by **computational geometry**.
             <abbr class="badge">CVPR</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">XXXXXXXXX</div>
+      <div class="title">
+Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery and Geometric Optimization</div>
       <div class="author"><strong>XXXXXXXXX</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">XXXXXXXXX</a>, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
-      <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.</em>
+      <div class="periodical"><em>Uncertainty in Artificial Intelligence <strong>(UAI)</strong>, 2021.</em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2010.05063.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -79,12 +80,12 @@ My research interest is **deep learning** powered by **computational geometry**.
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./images/teaser/bitmap.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">TPAMI</abbr>
+            <abbr class="badge">MICCAI</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">XXXXXXXXX</div>
+      <div class="title">Neural Style Transfer Improves 3D Cardiovascular MR Image Segmentation on Inconsistent Data</div>
       <div class="author"><a href="https://qianrusun1015.github.io/">XXXXXXXXX</a>,* <strong>XXXXXXXXX</strong>,<strong>*</strong> <a href="https://zhaozhengchen.github.io/">XXXXXXXXX</a>, <a href="https://www.chuatatseng.com/">XXXXXXXXX</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">XXXXXXXXX</a> (*=Equal contribution)</div>
-      <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2020.</em>
+      <div class="periodical"><em>International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2019.</em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/1910.03648.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -102,12 +103,12 @@ My research interest is **deep learning** powered by **computational geometry**.
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./images/teaser/pip.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">ECCV</abbr>
+            <abbr class="badge">ACS AC</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">XXXXXXXXX</div>
+      <div class="title">Improved Peptide Retention Time Prediction in Liquid Chromatography through Deep Learning</div>
       <div class="author"><strong>XXXXXXXXX</strong>, <a href="https://people.mpi-inf.mpg.de/~schiele/">XXXXXXXXX</a>, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
-      <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.</em>
+      <div class="periodical"><em>Analytical chemistry <strong>(ECCV)</strong>, 2020.</em>
       </div>
     <div class="links">
       <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -126,18 +127,17 @@ My research interest is **deep learning** powered by **computational geometry**.
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./images/teaser/quality.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">CVPR</abbr>
+            <abbr class="badge">arXiv</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">XXXXXXXXX</div>
-      <div class="author"><strong>XXXXXXXXX</strong>, <a href="http://seea.tju.edu.cn/info/1014/1459.htm">XXXXXXXXX</a>, <a href="http://seea.tju.edu.cn/info/1014/1508.htm">XXXXXXXXX</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">XXXXXXXXX</a>, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
-      <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em>
+      <div class="title">DeepQuality: Mass Spectra Quality Assessment via Compressed Sensing and Deep Learning</div>
+      <div class="author"><strong>Chunwei Ma</strong></div>
+      <div class="periodical"><em>Preprint, 2017.</em>
       </div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://bib.yyliu.net/CVPR20.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://arxiv.org/pdf/1710.11430" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/horsepurve/DeepQuality" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="./assets/bib/quality.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
        <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
     </div>
   </div>
@@ -150,12 +150,13 @@ My research interest is **deep learning** powered by **computational geometry**.
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./images/teaser/XIC.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">CVPR</abbr>
+            <abbr class="badge">BMC</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">XXXXXXXXX</div>
+      <div class="title">
+Improvement of peptide identification with considering the abundance of mRNA and peptide</div>
       <div class="author"><strong>XXXXXXXXX</strong>, <a href="http://seea.tju.edu.cn/info/1014/1459.htm">XXXXXXXXX</a>, <a href="http://seea.tju.edu.cn/info/1014/1508.htm">XXXXXXXXX</a>, <a href="https://people.mpi-inf.mpg.de/~schiele/">XXXXXXXXX</a>, <a href="https://qianrusun1015.github.io/">XXXXXXXXX</a></div>
-      <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em>
+      <div class="periodical"><em>BMC bioinformatics <strong>(CVPR)</strong>, 2020.</em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>

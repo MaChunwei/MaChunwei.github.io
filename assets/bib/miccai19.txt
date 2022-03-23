@@ -1,0 +1,8 @@
+@inproceedings{ma2019neural,
+  title={Neural style transfer improves {3D} cardiovascular {MR} image segmentation on inconsistent data},
+  author={Ma, Chunwei and Ji, Zhanghexuan and Gao, Mingchen},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={128--136},
+  year={2019},
+  organization={Springer}
+} 

@@ -1,0 +1,6 @@
+@article{ma2017deepquality,
+  title={DeepQuality: mass spectra quality assessment via compressed sensing and deep learning},
+  author={Ma, Chunwei},
+  journal={arXiv preprint arXiv:1710.11430},
+  year={2017}
+} 

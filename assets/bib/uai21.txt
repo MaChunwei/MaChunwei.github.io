@@ -1,0 +1,8 @@
+@inproceedings{ma2021improving,
+  title={Improving uncertainty calibration of deep neural networks via truth discovery and geometric optimization},
+  author={Ma, Chunwei and Huang, Ziyun and Xian, Jiayi and Gao, Mingchen and Xu, Jinhui},
+  booktitle={Uncertainty in Artificial Intelligence},
+  pages={75--85},
+  year={2021},
+  organization={PMLR}
+} 
