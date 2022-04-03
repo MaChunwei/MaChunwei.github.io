@@ -36,6 +36,10 @@
     <script src="./assets/js/github-stars.js"></script>
     <script type="text/javascript" src="./assets/js/jquery.js"></script>
 
+    // see https://michaelsoolee.com/google-analytics-jekyll/ and https://desiredpersona.com/google-analytics-jekyll/
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
   </head>
   <body>
     <!--

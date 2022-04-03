@@ -7,7 +7,7 @@ google_scholar: https://scholar.google.com/citations?user=4NOrXN8AAAAJ&hl=en
 github_link: https://github.com/horsepurve
 linkedin: https://www.linkedin.com/in/chunwei-ma-602548122/
 avatar: ./assets/img/avatar.png
-# google_analytics: UA-111540567-4
+google_analytics: G-JV25SSSZ5D
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: Chunwei Ma is a Ph.D. candidate in Computer Science at The State University of New York at Buffalo, working with Prof. Dr. Mingchen Gao and Prof. Jinhui Xu. His research lies at the intersection of deep learning and computational geometry.
