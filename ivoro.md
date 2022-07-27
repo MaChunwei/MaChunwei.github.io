@@ -1,3 +1,5 @@
-layout: page
+---
+layout: homepage
 title: "iVoro"
 permalink: /ivoro/
+---
