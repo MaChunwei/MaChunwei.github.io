@@ -1,6 +1,5 @@
 User-agent: *
 Allow: index.html
-Allow: ivoro.html
 Allow: /my_images/
 Allow: /files/
 Disallow: /assets/academicons/
