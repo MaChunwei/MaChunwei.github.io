@@ -8,7 +8,7 @@ I am currently a Ph.D. candidate in [Department of Computer Science and Engineer
 
 ## Research Interests
 
-My research interest is **deep learning** powered by **computational geometry**.
+My research interest is **deep learning** powered by (high dimensional) **computational geometry**.
 
 <!--
 <strong style="color:#e74d3c; font-weight:600">I am looking for a research intern position in the EU and the US. I'd appreciate a ping if you see a job I might fit.</strong>
