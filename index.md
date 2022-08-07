@@ -188,6 +188,12 @@ Improvement of peptide identification with considering the abundance of mRNA and
   -->
 </ul>
 
+<h4 style="margin:0 10px 0;">Journal Review</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a><autocolor>IEEE TNNLS, 2022</autocolor></a></li>
+</ul>
+
 ## Contact
 **Address:** [338X Davis Hall, Buffalo, NY, 14260](https://engineering.buffalo.edu/computer-science-engineering.html)
 <br>
