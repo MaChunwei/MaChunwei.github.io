@@ -102,7 +102,7 @@ Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery an
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 11px;">
       <div class="title"><a href="https://pubs.acs.org/doi/abs/10.1021/acs.analchem.8b02386">Improved Peptide Retention Time Prediction in Liquid Chromatography through Deep Learning</a></div>
       <div class="author"><strong>Chunwei Ma</strong> <i>et al.</i></div>
-      <div class="periodical"><em>Analytical chemistry, 2018.</em> Impact Factor: <strong><i style="color:#e74d3c">6.350</i></strong>
+      <div class="periodical"><em>Analytical Chemistry, 2018.</em> Impact Factor: <strong><i style="color:#e74d3c">6.350</i></strong>
       </div>
     <div class="links">
       <a href="https://pubs.acs.org/doi/abs/10.1021/acs.analchem.8b02386" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
@@ -150,7 +150,7 @@ Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery an
       <div class="title"><a href="https://link.springer.com/article/10.1186/s12859-017-1491-5">
 Improvement of peptide identification with considering the abundance of mRNA and peptide</a></div>
       <div class="author"><strong>Chunwei Ma</strong> <i>et al.</i></div>
-      <div class="periodical"><em>BMC bioinformatics, 2017.</em> Impact Factor: <strong><i style="color:#e74d3c">2.213</i></strong>
+      <div class="periodical"><em>BMC Bioinformatics, 2017.</em> Impact Factor: <strong><i style="color:#e74d3c">2.213</i></strong>
       </div>
     <div class="links">
       <a href="https://link.springer.com/content/pdf/10.1186/s12859-017-1491-5.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
