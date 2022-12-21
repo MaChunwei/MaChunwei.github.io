@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. candidate in [Department of Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) at [University at Buffalo, SUNY](https://www.buffalo.edu/), advised by [Prof. Dr. Mingchen Gao](https://cse.buffalo.edu/~mgao8/) and [Prof. Dr. Jinhui Xu](https://cse.buffalo.edu/~jinhui/).
+I am currently a Ph.D. candidate in [Department of Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) at [University at Buffalo, SUNY](https://www.buffalo.edu/), advised by [Prof. Dr. Jinhui Xu](https://cse.buffalo.edu/~jinhui/).
 
 ## Research Interests
 
