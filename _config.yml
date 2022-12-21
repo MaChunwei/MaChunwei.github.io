@@ -10,6 +10,6 @@ avatar: ./assets/img/avatar.png
 google_analytics: G-JV25SSSZ5D
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-description: Chunwei Ma is a Ph.D. candidate in Computer Science at The State University of New York at Buffalo, working with Prof. Dr. Mingchen Gao and Prof. Jinhui Xu. His research lies at the intersection of deep learning and computational geometry.
+description: Chunwei Ma is a Ph.D. candidate in Computer Science at The State University of New York at Buffalo, working with Prof. Jinhui Xu. His research lies at the intersection of deep learning and computational geometry.
 canonical: https://MaChunwei.github.io
 remote_theme: yaoyao-liu/minimal-light
