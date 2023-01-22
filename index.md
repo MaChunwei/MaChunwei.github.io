@@ -39,7 +39,7 @@ My research interest is **deep learning** powered by (high dimensional) **comput
       <a href="https://openreview.net/forum?id=zJXg_Wmob03" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://machunwei.github.io/ivoro" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>      
       <br>
-      <strong><small style="color:#e74d3c">25.26%, 37.09%, and 33.21% improvements on CIFAR-100, TinyImageNet, and ImageNet-Subset.</small></strong>
+      <strong><small style="color:#e74d3c">25.26%, 37.09%, and 33.21% improvements on CIFAR-100, TinyImageNet, and ImageNet-Subset, respectively.</small></strong>
     </div>
   </div>
 </div>
