@@ -16,6 +16,7 @@ My research interest is **deep learning** powered by (high dimensional) **comput
 
 ## News
 
+- **[Jan. 20, 2023]** Our paper about [continual learning](https://openreview.net/forum?id=zJXg_Wmob03) is accepted to [ICLR 2023](https://iclr.cc/Conferences/2023).
 - **[Jan. 20, 2022]** Our paper about [few-shot learning](https://openreview.net/forum?id=6kCiVaoQdx9) is accepted to [ICLR 2022](https://iclr.cc/Conferences/2022).
 - **[May. 12, 2021]** Our paper about [uncertainty calibration](https://proceedings.mlr.press/v161/ma21a.html) is accepted to [UAI 2021](https://www.auai.org/uai2021/accepted_papers).
 
@@ -23,6 +24,27 @@ My research interest is **deep learning** powered by (high dimensional) **comput
 
 <div class="publications">
 <ol class="bibliography">
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./images/teaser/ivorodemo.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">ICLR</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 11px;">
+      <div class="title"><a href="https://openreview.net/forum?id=zJXg_Wmob03">Progressive Voronoi Diagram Subdivision Enables Accurate Data-free Class-Incremental Learning</a></div>
+      <div class="author"><strong>Chunwei Ma</strong> <i>et al.</i></div>
+      <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em>
+      </div>
+    <div class="links">
+      <a href="https://openreview.net/forum?id=zJXg_Wmob03" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://machunwei.github.io/ivoro" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>      
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+  
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
