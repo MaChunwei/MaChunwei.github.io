@@ -17,6 +17,7 @@ My research interest is **deep learning** powered by (high dimensional) **comput
 ## News
 
 - **[Jan. 20, 2023]** Our paper about [continual learning](https://openreview.net/forum?id=zJXg_Wmob03) is accepted to [ICLR 2023](https://iclr.cc/Conferences/2023).
+- **[Jan. 4, 2023]** Our paper about federated learning is accepted to [AAMAS 2023](https://aamas2023.soton.ac.uk/program/accepted-papers/).
 - **[Jan. 20, 2022]** Our paper about [few-shot learning](https://openreview.net/forum?id=6kCiVaoQdx9) is accepted to [ICLR 2022](https://iclr.cc/Conferences/2022).
 - **[May. 12, 2021]** Our paper about [uncertainty calibration](https://proceedings.mlr.press/v161/ma21a.html) is accepted to [UAI 2021](https://www.auai.org/uai2021/accepted_papers).
 
