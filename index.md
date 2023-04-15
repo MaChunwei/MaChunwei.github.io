@@ -8,7 +8,14 @@ I am currently a Ph.D. candidate in [Department of Computer Science and Engineer
 
 ## Research Interests
 
+<!--
 My research interest is **deep learning** powered by (high dimensional) **computational geometry**.
+-->
+- **Deep Learning**: few-shot learning, continual learning, uncertainty in AI.
+- **Computational Geometry**: space partitioning, truth discovery. 
+- **Medical Image Analysis**: image segmentation, histopathology. 
+- **Bioinformatics**: genomics, transcriptomics, proteomics, metabolomics.
+- **Analytical Chemistry**: LC-MS/MS, drug discovery.
 
 <!--
 <strong style="color:#e74d3c; font-weight:600">I am looking for a research intern position in the EU and the US. I'd appreciate a ping if you see a job I might fit.</strong>
@@ -201,10 +208,10 @@ Improvement of peptide identification with considering the abundance of mRNA and
 <h4 style="margin:0 10px 0;">Conference Review</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://neurips.cc/Conferences/2021"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS), 2020-2022</autocolor></a></li>
+  <li><a href="https://neurips.cc/Conferences/2021"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS), 2020-2023</autocolor></a></li>
   <li><a href="https://icml.cc/Conferences/2022"><autocolor>International Conference on Machine Learning (ICML), 2021-2022</autocolor></a></li>
   <li><a href="https://iclr.cc/Conferences/2022"><autocolor>International Conference on Learning Representations (ICLR), 2022-2022</autocolor></a></li>
-  <li><a><autocolor>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019-2022</autocolor></a></li>
+  <li><a><autocolor>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019-2023</autocolor></a></li>
   <li><a><autocolor>AAAI Conference on Artificial Intelligence (AAAI), 2023</autocolor></a></li>
   <li><a><autocolor>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2020</autocolor></a></li>
   <li><a><autocolor>International Workshop on Combinatorial Image Analysis (IWCIA), 2020</autocolor></a></li>
@@ -217,7 +224,8 @@ Improvement of peptide identification with considering the abundance of mRNA and
 <h4 style="margin:0 10px 0;">Journal Review</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a><autocolor>IEEE TNNLS, 2022</autocolor></a></li>
+  <li><a><autocolor>IEEE Transactions on Neural Networks and Learning Systems, 2022-2023</autocolor></a></li>
+  <li><a><autocolor>Scientific Reports, 2023</autocolor></a></li>
 </ul>
 
 ## Contact
