@@ -226,6 +226,7 @@ Improvement of peptide identification with considering the abundance of mRNA and
 <ul style="margin:0 0 5px;">
   <li><a><autocolor>IEEE Transactions on Neural Networks and Learning Systems, 2022-2023</autocolor></a></li>
   <li><a><autocolor>IEEE Journal of Biomedical and Health Informatics, 2023</autocolor></a></li>
+  <li><a><autocolor>Briefings in Bioinformatics, 2023</autocolor></a></li>
   <li><a><autocolor>Scientific Reports, 2023</autocolor></a></li>
 </ul>
 
