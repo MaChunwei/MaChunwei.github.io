@@ -52,7 +52,7 @@ My research interest is **deep learning** powered by (high dimensional) **comput
       <a href="https://academic.oup.com/bib/article/24/6/bbad399/7434461" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/horsepurve/DeepB3P3" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>      
       <br>
-      <strong><small style="color:#e74d3c">Introduced <strong>Masked Peptide Transformers</strong> for low-data drug discovery of Central Nervous System diseases.</small></strong>
+      <strong><small style="color:#e74d3c">Introduced Masked Peptide Transformers for low-data drug discovery of Central Nervous System diseases.</small></strong>
     </div>
   </div>
 </div>
