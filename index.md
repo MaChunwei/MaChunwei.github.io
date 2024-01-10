@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. candidate in [Department of Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) at [University at Buffalo, SUNY](https://www.buffalo.edu/), advised by [Prof. Dr. Jinhui Xu](https://cse.buffalo.edu/~jinhui/).
+I received Ph.D. in Computer Science at [Department of Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University at Buffalo, SUNY](https://www.buffalo.edu/), advised by [Prof. Dr. Jinhui Xu](https://cse.buffalo.edu/~jinhui/).
 
 ## Research Interests
 
@@ -21,6 +21,11 @@ My research interest is **deep learning** powered by (high dimensional) **comput
 <strong style="color:#e74d3c; font-weight:600">I am looking for a research intern position in the EU and the US. I'd appreciate a ping if you see a job I might fit.</strong>
 -->
 
+## Experience
+- **Year Round Graduate Intern**,  JMP/SAS Institute,  _Jan 2023 - Dec 2023_
+- **Bioinformatics Scientist**,  BGI Genomics-Shenzhen,  _Jul 2015 - Jul 2018_
+- **Co-op**,  BGI Genomics-Shenzhen,  _Mar 2014 - Jun 2015_
+
 ## News
 
 - **[Jan. 20, 2023]** Our paper about [continual learning](https://openreview.net/forum?id=zJXg_Wmob03) is accepted to [ICLR 2023](https://iclr.cc/Conferences/2023).
@@ -32,6 +37,29 @@ My research interest is **deep learning** powered by (high dimensional) **comput
 
 <div class="publications">
 <ol class="bibliography">
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./images/teaser/flowchart.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">BiB</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 11px;">
+      <div class="title"><a href="https://academic.oup.com/bib/article/24/6/bbad399/7434461">A Prediction Model for Blood-brain Barrier Penetrating Peptides Based on Masked Peptide Transformers with Dynamic Routing</a></div>
+      <div class="author"><strong>Chunwei Ma</strong> and Russ Wolfinger</div>
+      <div class="periodical"><em>Briefings in Bioinformatics, 2023.</em> Impact Factor: <strong><i style="color:#e74d3c">13.994</i></strong>
+      </div>
+    <div class="links">
+      <a href="https://academic.oup.com/bib/article/24/6/bbad399/7434461" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/horsepurve/DeepB3P3" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>      
+      <br>
+      <strong><small style="color:#e74d3c">Introduced <strong>Masked Peptide Transformers</strong> for low-data drug discovery of Central Nervous System diseases.</small></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
