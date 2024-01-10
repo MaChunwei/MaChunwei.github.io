@@ -11,6 +11,7 @@ I received Ph.D. in Computer Science at [Department of Computer Science and Engi
 <!--
 My research interest is **deep learning** powered by (high dimensional) **computational geometry**.
 -->
+- **Large Language Models** and their applications.
 - **Deep Learning**: few-shot learning, continual learning, uncertainty in AI.
 - **Computational Geometry**: space partitioning, truth discovery. 
 - **Medical Image Analysis**: image segmentation, histopathology. 
