@@ -29,10 +29,11 @@ My research interest is **deep learning** powered by (high dimensional) **comput
 
 ## News
 
-- **[Jan. 20, 2023]** Our paper about [continual learning](https://openreview.net/forum?id=zJXg_Wmob03) is accepted to [ICLR 2023](https://iclr.cc/Conferences/2023).
-- **[Jan. 4, 2023]** Our paper about federated learning is accepted to [AAMAS 2023](https://aamas2023.soton.ac.uk/program/accepted-papers/).
-- **[Jan. 20, 2022]** Our paper about [few-shot learning](https://openreview.net/forum?id=6kCiVaoQdx9) is accepted to [ICLR 2022](https://iclr.cc/Conferences/2022).
-- **[May. 12, 2021]** Our paper about [uncertainty calibration](https://proceedings.mlr.press/v161/ma21a.html) is accepted to [UAI 2021](https://www.auai.org/uai2021/accepted_papers).
+- **[Oct. 17, 2023]** Our paper on low-data drug discovery powered by masked peptide transformer has been accepted for publication in [Briefings in Bioinformatics](https://academic.oup.com/bib) (top 3 journals in Biochemical Research Methods).
+- **[Jan. 20, 2023]** Our paper about [continual learning](https://openreview.net/forum?id=zJXg_Wmob03) has been accepted to [ICLR 2023](https://iclr.cc/Conferences/2023). More than 37% improvement of accuracy for CIL.
+- **[Jan. 4, 2023]** Our paper about federated learning has been accepted to [AAMAS 2023](https://aamas2023.soton.ac.uk/program/accepted-papers/).
+- **[Jan. 20, 2022]** Our paper about [few-shot learning](https://openreview.net/forum?id=6kCiVaoQdx9) has been accepted to [ICLR 2022](https://iclr.cc/Conferences/2022).
+- **[May. 12, 2021]** Our paper about [uncertainty calibration](https://proceedings.mlr.press/v161/ma21a.html) has been accepted to [UAI 2021](https://www.auai.org/uai2021/accepted_papers).
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=4NOrXN8AAAAJ&hl=en" target="_blank" style="font-size:15px;">Full List</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/195/7742.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
