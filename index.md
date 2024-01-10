@@ -40,7 +40,7 @@ My research interest is **deep learning** powered by (high dimensional) **comput
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./images/teaser/flowchart.png" class="teaser img-fluid z-depth-1">
+    <img src="./images/teaser/bbbp.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">BiB</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 11px;">
