@@ -22,9 +22,9 @@ My research interest is **deep learning** powered by (high dimensional) **comput
 -->
 
 ## Experience
-- **Year Round Graduate Intern**,  JMP/SAS Institute,  _Jan 2023 - Dec 2023_
-- **Bioinformatics Scientist**,  BGI Genomics-Shenzhen,  _Jul 2015 - Jul 2018_
-- **Co-op**,  BGI Genomics-Shenzhen,  _Mar 2014 - Jun 2015_
+- **Year Round Graduate Intern**,  JMP/SAS Institute,  2023.1 - 2023.12
+- **Bioinformatics Scientist**,  BGI Genomics-Shenzhen,  2015.7 - 2018.7
+- **Co-op**,  BGI Genomics-Shenzhen,  2014.3 - 2015.6
 
 ## News
 
