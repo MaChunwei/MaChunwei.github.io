@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## About
 
 I received Ph.D. in Computer Science at [Department of Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University at Buffalo, SUNY](https://www.buffalo.edu/), advised by [Prof. Dr. Jinhui Xu](https://cse.buffalo.edu/~jinhui/).
 
@@ -11,7 +11,7 @@ I received Ph.D. in Computer Science at [Department of Computer Science and Engi
 <!--
 My research interest is **deep learning** powered by (high dimensional) **computational geometry**.
 -->
-- **Large Language Models** and their applications.
+- **Large Language Models**: LLMs and their applications.
 - **Deep Learning**: few-shot learning, continual learning, uncertainty in AI.
 - **Computational Geometry**: space partitioning, truth discovery. 
 - **Medical Image Analysis**: image segmentation, histopathology. 
@@ -22,7 +22,7 @@ My research interest is **deep learning** powered by (high dimensional) **comput
 <strong style="color:#e74d3c; font-weight:600">I am looking for a research intern position in the EU and the US. I'd appreciate a ping if you see a job I might fit.</strong>
 -->
 
-## Experience
+## Work Experience
 - **Year Round Graduate Intern**,  JMP/SAS Institute,  2023.1 - 2023.12
 - **Bioinformatics Scientist**,  BGI Genomics-Shenzhen,  2015.7 - 2018.7
 - **Co-op**,  BGI Genomics-Shenzhen,  2014.3 - 2015.6
