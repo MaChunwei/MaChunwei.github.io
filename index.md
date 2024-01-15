@@ -4,7 +4,7 @@ layout: homepage
 
 ## About
 
-I received Ph.D. in Computer Science at [Department of Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University at Buffalo, SUNY](https://www.buffalo.edu/), advised by [Prof. Dr. Jinhui Xu](https://cse.buffalo.edu/~jinhui/).
+I received Ph.D. in Computer Science in 2023 at [Department of Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html), [University at Buffalo, SUNY](https://www.buffalo.edu/), advised by [Prof. Dr. Jinhui Xu](https://cse.buffalo.edu/~jinhui/). I received Bachelor's degree in Biomedical Engineering & Bioinformatics in 2015 at [Southeast University, Nanjing](https://www.seu.edu.cn/english/).
 
 ## Research Interests
 
