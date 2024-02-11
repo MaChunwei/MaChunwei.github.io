@@ -28,6 +28,8 @@ My research interest is **deep learning** powered by (high dimensional) **comput
 
 ## News
 
+- **[Jan. 19, 2024]** Our paper on Continual Domain Adaptation has been accepted to [
+AISTATS 2024](https://aistats.org/aistats2024/).
 - **[Oct. 17, 2023]** Our paper on low-data drug discovery powered by masked peptide transformer has been accepted for publication in [Briefings in Bioinformatics](https://academic.oup.com/bib) (top 3 journals in Biochemical Research Methods).
 - **[Jan. 20, 2023]** Our paper about [continual learning](https://openreview.net/forum?id=zJXg_Wmob03) has been accepted to [ICLR 2023](https://iclr.cc/Conferences/2023). More than 37% improvement of accuracy for CIL.
 - **[Jan. 4, 2023]** Our paper about federated learning has been accepted to [AAMAS 2023](https://aamas2023.soton.ac.uk/program/accepted-papers/).
