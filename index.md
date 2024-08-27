@@ -11,6 +11,7 @@ I received Ph.D. in Computer Science in 2023 at [Department of Computer Science 
 <!--
 My research interest is **deep learning** powered by (high dimensional) **computational geometry**.
 -->
+- **Large Language Models**: and their applications.
 - **Deep Learning**: few-shot learning, continual learning, uncertainty in AI.
 - **Computational Geometry**: space partitioning, truth discovery. 
 - **Medical Image Analysis**: image segmentation, histopathology. 
@@ -28,6 +29,7 @@ My research interest is **deep learning** powered by (high dimensional) **comput
 
 ## News
 
+- **[Aug. 05, 2024]** Our paper on Geometric Federated Learning has been accepted to Neurocomputing.
 - **[Jan. 19, 2024]** Our paper on continual domain adaptation has been accepted to [
 AISTATS 2024](https://aistats.org/aistats2024/).
 - **[Oct. 17, 2023]** Our paper on low-data drug discovery powered by masked peptide transformer has been accepted for publication in [Briefings in Bioinformatics](https://academic.oup.com/bib) (top 3 journals in Biochemical Research Methods).
