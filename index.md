@@ -45,6 +45,29 @@ AISTATS 2024](https://aistats.org/aistats2024/).
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./images/teaser/DILI.PNG" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">BiB</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 11px;">
+      <div class="title"><a href="https://doi.org/10.1021/acs.chemrestox.4c00134">Toward an Explainable Large Language Model for the Automatic Identification of the Drug-Induced Liver Injury Literature</a></div>
+      <div class="author"><strong>Chunwei Ma</strong> and Russ Wolfinger</div>
+      <div class="periodical"><em>Chemical Research in Toxicology, 2024.</em> 
+      </div>
+    <div class="links">
+      <a href="https://doi.org/10.1021/acs.chemrestox.4c00134" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/horsepurve/DILI" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>      
+      <br>
+      <strong><small style="color:#e74d3c">The first LLM for DILI, with two novel ways of LLM interpretability.</small></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./images/teaser/bbbp.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">BiB</abbr>
   </div>
