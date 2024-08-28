@@ -46,7 +46,7 @@ AISTATS 2024](https://aistats.org/aistats2024/).
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./images/teaser/DILI.PNG" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">BiB</abbr>
+            <abbr class="badge">ACS</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 11px;">
       <div class="title"><a href="https://doi.org/10.1021/acs.chemrestox.4c00134">Toward an Explainable Large Language Model for the Automatic Identification of the Drug-Induced Liver Injury Literature</a></div>
@@ -69,7 +69,7 @@ AISTATS 2024](https://aistats.org/aistats2024/).
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./images/teaser/bbbp.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">ACS</abbr>
+            <abbr class="badge">BiB</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 11px;">
       <div class="title"><a href="https://academic.oup.com/bib/article/24/6/bbad399/7434461">A Prediction Model for Blood-brain Barrier Penetrating Peptides Based on Masked Peptide Transformers with Dynamic Routing</a></div>
