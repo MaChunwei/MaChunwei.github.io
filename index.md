@@ -29,9 +29,9 @@ My research interest is **deep learning** powered by (high dimensional) **comput
 
 ## News
 
+- **[Jan. 22, 2025]** Our paper on Geometric Test-Time Adaptation (TTA) has been accepted to ICLR 2025.
 - **[Aug. 05, 2024]** Our paper on Geometric Federated Learning has been accepted to Neurocomputing.
-- **[Jan. 19, 2024]** Our paper on continual domain adaptation has been accepted to [
-AISTATS 2024](https://aistats.org/aistats2024/).
+- **[Jan. 19, 2024]** Our paper on continual domain adaptation has been accepted to [AISTATS 2024](https://aistats.org/aistats2024/).
 - **[Oct. 17, 2023]** Our paper on low-data drug discovery powered by masked peptide transformer has been accepted for publication in [Briefings in Bioinformatics](https://academic.oup.com/bib) (top 3 journals in Biochemical Research Methods).
 - **[Jan. 20, 2023]** Our paper about [continual learning](https://openreview.net/forum?id=zJXg_Wmob03) has been accepted to [ICLR 2023](https://iclr.cc/Conferences/2023). More than 37% improvement of accuracy for CIL.
 - **[Jan. 4, 2023]** Our paper about federated learning has been accepted to [AAMAS 2023](https://aamas2023.soton.ac.uk/program/accepted-papers/).
@@ -264,13 +264,13 @@ Improvement of peptide identification with considering the abundance of mRNA and
 <h4 style="margin:0 10px 0;">Conference Review</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://neurips.cc/Conferences/2021"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS), 2020-2023</autocolor></a></li>
-  <li><a href="https://icml.cc/Conferences/2022"><autocolor>International Conference on Machine Learning (ICML), 2021-2022</autocolor></a></li>
-  <li><a href="https://iclr.cc/Conferences/2022"><autocolor>International Conference on Learning Representations (ICLR), 2022-2022</autocolor></a></li>
-  <li><a><autocolor>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019-2023</autocolor></a></li>
-  <li><a><autocolor>AAAI Conference on Artificial Intelligence (AAAI), 2023</autocolor></a></li>
-  <li><a><autocolor>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2020</autocolor></a></li>
-  <li><a><autocolor>International Workshop on Combinatorial Image Analysis (IWCIA), 2020</autocolor></a></li>
+  <li><a href="https://neurips.cc/Conferences/2021"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS)</autocolor></a></li>
+  <li><a href="https://icml.cc/Conferences/2022"><autocolor>International Conference on Machine Learning (ICML)</autocolor></a></li>
+  <li><a href="https://iclr.cc/Conferences/2022"><autocolor>International Conference on Learning Representations (ICLR)</autocolor></a></li>
+  <li><a><autocolor>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)</autocolor></a></li>
+  <li><a><autocolor>AAAI Conference on Artificial Intelligence (AAAI)</autocolor></a></li>
+  <li><a><autocolor>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)</autocolor></a></li>
+  <li><a><autocolor>International Workshop on Combinatorial Image Analysis (IWCIA)</autocolor></a></li>
   <!--
   <li><a href="https://mmasia2021.uqcloud.net/"><autocolor>ACM MM Asia 2020-2021</autocolor></a></li>
   <li><a href="http://www.acml-conf.org/2021/"><autocolor>ACML 2021</autocolor></a></li>
@@ -280,10 +280,17 @@ Improvement of peptide identification with considering the abundance of mRNA and
 <h4 style="margin:0 10px 0;">Journal Review</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a><autocolor>IEEE Transactions on Neural Networks and Learning Systems, 2022-2023</autocolor></a></li>
-  <li><a><autocolor>IEEE Journal of Biomedical and Health Informatics, 2023</autocolor></a></li>
-  <li><a><autocolor>Briefings in Bioinformatics, 2023</autocolor></a></li>
-  <li><a><autocolor>Scientific Reports, 2023</autocolor></a></li>
+  <li><a><autocolor>IEEE Transactions on Neural Networks and Learning Systems</autocolor></a></li>
+  <li><a><autocolor>IEEE Journal of Biomedical and Health Informatics</autocolor></a></li>
+  <li><a><autocolor>Briefings in Bioinformatics</autocolor></a></li>
+  <li><a><autocolor>Scientific Reports</autocolor></a></li>
+  <li><a><autocolor>Journal of Medical Internet Research</autocolor></a></li>
+  <li><a><autocolor>JMIR AI</autocolor></a></li>
+  <li><a><autocolor>JMIR Medical Informatics</autocolor></a></li>
+  <li><a><autocolor>Frontiers in Artificial Intelligence</autocolor></a></li>
+  <li><a><autocolor>Computational and Structural Biotechnology Journal</autocolor></a></li>
+  <li><a><autocolor>BMC Bioinformatics</autocolor></a></li>
+  <li><a><autocolor>Toxicology</autocolor></a></li>
 </ul>
 
 ## Contact
