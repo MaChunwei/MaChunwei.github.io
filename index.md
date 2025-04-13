@@ -296,4 +296,3 @@ Improvement of peptide identification with considering the abundance of mRNA and
 ## Contact
 **Address:** [338X Davis Hall, Buffalo, NY, 14260](https://engineering.buffalo.edu/computer-science-engineering.html)
 <br>
-**Phone:** (716)-256-9951 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **WeChat:** horsepurve
