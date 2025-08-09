@@ -166,7 +166,7 @@ Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery an
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 11px;">
       <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-030-32245-8_15">Neural Style Transfer Improves 3D Cardiovascular MR Image Segmentation on Inconsistent Data</a></div>
-      <div class="author"><strong>Chunwei Ma</strong>, Zhanghexuan Ji, Mingchen Gao</div>
+      <div class="author"><strong>Chunwei Ma</strong> <i>et al.</i></div>
       <div class="periodical"><em>International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2019.</em> <strong><i style="color:#59d47c">Early Accept</i></strong>
       </div>
     <div class="links">
