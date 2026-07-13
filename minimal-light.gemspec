@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version       = '1.0.0'
   s.license       = 'CC0-1.0'
   s.authors       = ['Chunwei Ma', 'UB']
-  s.email         = ['chunweim@buffalo.edu']
+  s.email         = ['horsepurve@gmail.com']
   s.homepage      = 'https://github.com/yaoyao-liu/minimal-light'
   s.summary       = 'Minimal Light is a Jekyll theme for academic GitHub Pages'
 
