@@ -27,6 +27,11 @@ My research interest is **deep learning** powered by (high dimensional) **comput
 - **Bioinformatics Scientist**,  BGI Genomics-Shenzhen,  2015.7 - 2018.7
 - **Co-op**,  BGI Genomics-Shenzhen,  2014.3 - 2015.6
 
+## Writings
+- [Is there even a ground-truth for LLMs’ internal representations?](https://chunweima.substack.com/p/is-there-even-a-ground-truth-for)
+- [Geometric Lens: Verbalizing Hidden Representations of an LLM From First Principles](https://horsepurve.github.io/interpret-llm/posts/01_llm_lens/)
+- [Large Language Models Are Secretly Voronoi Diagrams](https://horsepurve.github.io/interpret-llm/posts/02_llm_voronoi/)
+
 ## News
 
 - **[Jan. 22, 2025]** Our paper on Geometric Test-Time Adaptation (TTA) has been accepted to ICLR 2025.
@@ -42,6 +47,27 @@ My research interest is **deep learning** powered by (high dimensional) **comput
 
 <div class="publications">
 <ol class="bibliography">
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./images/teaser/trasportation.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">arXiv</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 4px;padding-left: 11px;">
+      <div class="title"><a href="https://arxiv.org/abs/2607.10578">Laguerre Geometry for Interpreting Large Language Models</a></div>
+      <div class="author"><strong>Chunwei Ma</strong> and Russ Wolfinger</div>
+      <div class="periodical"><em>arXiv preprint, 2026.</em> 
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2607.10578" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/horsepurve/Geometric-Lens" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>      
+      <br>
+      <strong><small style="color:#e74d3c">The first principled lens for LLM hidden state verbalization.</small></strong>
+    </div>
+  </div>
+</div>
+</li>
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
